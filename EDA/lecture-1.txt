@@ -31,6 +31,5 @@ Deep learning:
             Self driving car vision
 
 
-
 Ai is the big picture , ml is the brain that learn from data ,
 Deep learning is the super power brain built to handle really tough problems 
