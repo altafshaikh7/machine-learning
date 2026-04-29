@@ -1,0 +1,16 @@
+
+EDA
+
+lets see the steps involved in making a machine learning models.
+
+1.problem definition
+2.Data collection
+3. exploratory Data analysis (EDA)
+4. Data preprocessing / cleaning
+5. features selection & engineering
+6. spilit the dataset
+7. model selection
+8. model training
+9.model Evalutions
+10. Hyperparameter tuning
+11. model tesing/ validation
