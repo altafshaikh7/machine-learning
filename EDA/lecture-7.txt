@@ -1,0 +1,31 @@
+
+features engineering:
+> creating new features or transforming exsiting ones to expose useful patterns that ML models can learn from.
+
+why do we need it ?
+ >Because ML models don't know domain logic - we have to give them the right signals.
+
+    common features engineering techniques in ML.
+        > Mathematical combinations
+        > Target-based flags
+        > bining (when it helps)
+        > time-based features (if time exists)
+
+
+features selection:
+> selecting the most useful features and removing the rest.
+    why is it important?
+        >reduce noise and overfitting
+        >speed up training
+        >improve models accuracy
+        >make models interpretation easier
+    
+1.filter methods (pure Statistics)
+    >correlation matrix - remove highly correlated features
+    >chi-square test (categorical vs categorical)
+    >ANOVA F-test (numerical vs categorical Target)
+
+2. Embedded methods (selection built into the model)
+    >lasso regression - shrinks coeffients to 0
+    >tree-based models (random forest , XGBoost)
+        features Importance score

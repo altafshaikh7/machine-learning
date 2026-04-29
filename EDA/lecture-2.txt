@@ -1,0 +1,17 @@
+
+Types of machine learning
+ 
+
+1. Supervised learning:
+Supervised learning is like a student being tought by a teacher.
+we give the machine input and the correct answer - and it kearns to pridict
+
+2. Unsupervised learning:
+here also we will get the data but we are not going to pridict anything .
+we will just find patterns , group similar items , reduce complexity spot outliers.
+
+3.Reinforcement learning:
+Reinforcement learning is like training a dog . you dont teach it everthing directly
+instead you reward good behaviour and ignore or punish bad actions.
+overtime , the dog learns what actions give it treats. thats the core idea of RL 
+learning by trial and error

@@ -1,0 +1,26 @@
+
+Data preprocessing
+
+> to prepare clean data so it can be analyzed or used in a machine learning models.
+> if data cleaning is about fixing mistakes
+> Data preprocessing is about transforming valid data into a usable format.
+
+
+1. Encoding categorical variables
+    > Convert text labels (like "male", "yes", "southeast") into numbers.
+
+    two common methods:
+        > labels Encoding (ordinal)
+            Good for ordered categories like "low", "medium", "High".
+        > One-Hot Encoding (nominal)
+            for non-ordered categories like region 
+
+2. features transformation (Log, square, root, etc..)
+    > used to handle skewed data, like right-skewed or left skewed data.
+
+3. features scaling (Normalization or standardization)
+    > bring numerical values to the same scale- especially useful for distance- based alogirthm. 
+        Normalization (min-max scaling):
+            > scale values between 0 and 1
+        standardization (Z-score scaling)
+            > transforms data to have mean 0 and std 1

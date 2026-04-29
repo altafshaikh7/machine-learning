@@ -1,0 +1,36 @@
+1.What is machine learning
+
+-Youtube recomendation > learns from your watch history
+-Spam detection in gmail > learns patterns in spam emails
+-voice Assistance (siri & alexa) > learn how you speaks
+
+
+diffrence between AI & ML & DL
+
+Artificial Intelligance :
+    Ai is the big umbrella -its the science of making machine Smart, just like humans 
+    exmaple:
+            playing chess like human (AI)
+            talking to Alexa (AI)
+            driving car on it Own
+
+machine learning:
+    ml is a subset of AI - this is where machine learns from data 
+    and improve over time 
+    exmaple:
+            Youtube recomendation video
+            Netflix predicting ypur next bings
+            gmail filtering Spam 
+
+Deep learning:
+    DL is a subset of machine learning - it uses something called neural networks ,
+    which are inspire by the human brain.
+    exmaple:
+            Face recognition on phone 
+            ChatGPT
+            Self driving car vision
+
+
+
+Ai is the big picture , ml is the brain that learn from data ,
+Deep learning is the super power brain built to handle really tough problems 
